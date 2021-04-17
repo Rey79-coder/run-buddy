@@ -230,3 +230,57 @@ section {
   .text-right p {
       text-align: right;
   }
+
+  /*REACH OUT Section START*/
+  .contact-info {
+    text-align: center;
+    background: #024e76;
+  }
+  .section-title-2 {
+    font-size: 55px;
+    color: #fce138;
+    margin-bottom: 35px;
+    padding: 0 100px 20px 100px;
+    display: inline-block;
+    border-bottom: 3px solid;
+  }
+  .secondary-border {
+    border-color: #39a6b2;
+}
+  .contact-container {
+    width: 400px;
+    height: 400px;
+    vertical-align: top;
+    margin-left: 200px;
+}
+.contact-text {
+  width: 410px;
+  display: inline-block;
+  vertical-align: top;
+  text-align: left;
+  margin: 30px 0 0 60px;
+  color: white;
+}
+.contact-text h3 {
+    color: #fce138;
+    font-size: 32px;
+  }
+  
+  .contact-text p, .contact-text address {
+    margin: 20px 0;
+    line-height: 1.5;
+    font-size: 20px;
+    font-style: normal;
+  }
+  
+  .contact-text a {
+    color: #fce138;
+  }
+  .contact-text {
+      display: inline-block;
+      position: absolute;
+      margin: -350px 20px;
+  }
+ /* REACH OUT STYLES END */
+
+ 
