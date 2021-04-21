@@ -13,7 +13,7 @@
     
   }
   .private-hero {
-    background-image: url(../images/hero-bg.jpeg);
+    background-image: url("../images/hero-bg.jpg");
     background-size: cover;
     background-position: bottom;
     position: relative;
