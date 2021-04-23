@@ -4,9 +4,9 @@ Create a new feature branch. ✅
 
 Add flexbox to the header. ✅
 
-Add flexbox to the footer.
+Add flexbox to the footer. ✅
 
-Add flexbox to the hero section.
+Add flexbox to the hero section. ✅
 
 Center section titles using flexbox.
 
