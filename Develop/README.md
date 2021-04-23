@@ -8,9 +8,9 @@ Add flexbox to the footer. ✅
 
 Add flexbox to the hero section. ✅
 
-Center section titles using flexbox.
+Center section titles using flexbox. ✅
 
-Create nested flexboxes for the "What You Do" section.
+Create nested flexboxes for the "What You Do" section. 
 
 Convert the trainer section into cards.
 
