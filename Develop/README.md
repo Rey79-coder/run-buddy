@@ -12,7 +12,7 @@ Center section titles using flexbox. ✅
 
 Create nested flexboxes for the "What You Do" section. ✅
 
-Convert the trainer section into cards.
+Convert the trainer section into cards. ✅
 
 Make a three-column "Reach Out" section.
 
