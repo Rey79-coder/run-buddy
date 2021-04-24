@@ -14,6 +14,6 @@ Create nested flexboxes for the "What You Do" section. ✅
 
 Convert the trainer section into cards. ✅
 
-Make a three-column "Reach Out" section.
+Make a three-column "Reach Out" section.✅
 
-Merge the feature branch.
+Merge the feature branch.✅
