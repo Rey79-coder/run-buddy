@@ -125,6 +125,9 @@ header nav ul li a {
     margin: 0 auto;
     text-align: center;
 }
+
+/* What You Do Section*/
+
 .steps {
     background: #fce138;
 }
@@ -236,57 +239,109 @@ header nav ul li a {
   .text-right p {
       text-align: right;
   }
-
-  /*REACH OUT Section START*/
-  
-  .contact-info {
-    background: #024e76;
+  .flex-row {
+    display: flex;
   }
+
+/* REACH OUT Section START */
+  
+.contact-info {
+  background: #024e76;
+  background-size: cover;
+  background-position: center;
+  display: flex; 
+  justify-content: center;
+  width: 100%;
+  margin: 0;
+  }
+
+  .contact-info > * {
+    flex: 1;
+    margin: 15px;
+  }
+
   .section-title-2 {
     font-size: 55px;
     color: #fce138;
-    margin-bottom: 35px;
-    padding: 0 100px 20px 100px;
-    display: inline-block;
     border-bottom: 3px solid;
+    padding: 20px;
+    text-align: center;
+    margin: 0 auto 35px auto;
+    width: 50%; 
   }
   .secondary-border {
     border-color: #39a6b2;
 }
-  .contact-container {
-    width: 400px;
-    height: 400px;
-    vertical-align: top;
-    margin-left: 200px;
-}
-.contact-text {
-  width: 410px;
-  display: inline-block;
-  vertical-align: top;
+
+/* title */
+
+.title-runbuddy-reachout, .h2 {
+  display: flex;
+  justify-content: center;
+  background-color:  #024e76;
+}  
+
+/* sub-title and content */
+
+.contact-info h3 {
+  color: #fce138;
+  font-size: 28px;
   text-align: left;
-  margin: 30px 0 0 60px;
+}
+.content, p address {
   color: white;
 }
-.contact-text h3 {
-    color: #fce138;
-    font-size: 32px;
+.rout, address {
+  color: #fce138;
+  display: relative;
+}
+/* contact us form */
+      
+  .contact-form input, .contact-form textarea {
+    border: 1px solid #024e76;
+    display: block;
+    padding: 7px 15px;
+    font-size: 16px;
+    color: #024e76;
+    width: 100%;
+    margin-bottom: 15px;
+    margin-top: 5px; 
+    display: flex;
+    justify-content: space-between;
   }
-  
-  .contact-text p, .contact-text address {
-    margin: 20px 0;
-    line-height: 1.5;
-    font-size: 20px;
-    font-style: normal;
+  .contact-info button {
+    width: 100%;
+    border: none;
+    background: #fce138;
+    color: #024e76;
+    text-align: center;
+    padding: 15px 0;
+    font-size: 16px;
   }
-  
-  .contact-text a {
-    color: #fce138;
+
+  /* map */
+
+  .sub-title {
+    display: inline;
+    text-align: left;
   }
-  .contact-text {
-      display: inline-block;
-      position: absolute;
-      margin: -350px 20px;
+  .contact-info {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
   }
+  .map iframe {
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .move-right {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
 
  /* FOOTER START / ADD FLEXBOX */
 
@@ -314,10 +369,3 @@ footer a {
     color: #024e76;
 }
 
-section {
-    padding: 60px;
-}
-
-.flex-row {
-    display: flex;
-  }
