@@ -18,7 +18,7 @@ Make a three-column "Reach Out" section.✅
 
 Merge the feature branch.✅
 
-# RUN BUDDY - Challenge 3 - Media Queries
+# RUN BUDDY - Media Queries
 
 Let's outline our approach, described in the following steps:
 
@@ -33,4 +33,6 @@ Add media queries.
 Add styles for small screens.
 
 Merge the feature branch.
+
+# RUN BUDDY - Round Corners, State Indicators, Depth Implementing Shadows, and Opacity.
 
