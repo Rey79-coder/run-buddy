@@ -1,22 +1,51 @@
-# RUN BUDDY 
+# Run-Buddy
+  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  
+  ## Table of Content
 
-Run Buddy is a website tha matches trainers with people.
+  -[Description](#Description)
+  -[Installation](#Installation)
+  -[Usage](#Usage)
+  -[Licenses](#Licenses)
+  -[Contribution](#Contribution)
+  -[Link](#Link)
+  -[Questions](#Questions)
+  -[email](#email)
+  
+  ## Description: 
+      Web application that matches runners with trainers.
 
-In addition, profesionals will be on the look out for Run Buddy members runners.
+  ## Installation:
+      You need html and js for now only.
 
-It's intention is promoting running as a good sport.
+  ## Usage:
+      You subscribe and the trainers will contact you for a consult.
+  
+  ## Licenses:
+     This repository is licensed under the MIT license.
 
-Applicattions and links are working properly.
+  ## Contribution:
+      Contact me first.
 
-It follows in order HTML5.
+  ## Link:  
+      https://rey79-coder.github.io/run-buddy/#what-we-do
 
-All files contains enough instructions because it's commented correctly.
+  ## Questions:  
+      How can we connect it to the database? What functions and packages do we need to make it all functional?
 
-Application deployed at live URL.
+  ## email:  
+      verareyna79@gmail.com
 
-Application loads with no errors.
-
-Application GitHub URL submitted
-
-The final URL renders more than 90% of the accuracy as for the mockup provided.
-
+  ## For additional questions:
+    Please reach me out through my email: verareyna79@gmail.com.
+  
+  ## Video 
+    (Comming up...)
+    There is a video showing on how to work the application.
+   
+  ## Images 
+    (Comming up...)
+    For illustration purposes there is a snapshot of real live instance.
+   
+   
